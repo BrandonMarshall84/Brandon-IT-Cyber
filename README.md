@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon! </h1>
 
-<h2>👨‍💻 IT/ Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT/ Operating systems:</h2>
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
