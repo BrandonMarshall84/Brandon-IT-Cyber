@@ -10,9 +10,8 @@
 
 - [Home Automation Door Sensor](https://github.com/BrandonMarshall84/Door-Sensor-/tree/main)
 - [Home Automation Distance Sensor](https://github.com/BrandonMarshall84/Distance-Sensor-/tree/main)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Home Automation Light](https://github.com/BrandonMarshall84/Automated-Light/tree/main)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,7 +23,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/brandon-marshall-31b428242/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
