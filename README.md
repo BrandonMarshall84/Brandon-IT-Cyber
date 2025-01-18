@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/ Operating systems:</h2>
 
   - [Shell Script](https://github.com/BrandonMarshall84/Linux-Shell-Script/tree/main)
-  - [Shell Script](https://github.com/BrandonMarshall84/Linux-Shell-Script/tree/main)
+  - [User and Group Management](https://github.com/BrandonMarshall84/User-and-Group-Management/tree/main)
 
 
 <h2>📺 Popular YouTube Videos</h2>
