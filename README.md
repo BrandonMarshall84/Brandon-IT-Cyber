@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/ Operating systems:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Shell Script](https://github.com/BrandonMarshall84/Linux-Shell-Script/tree/main)
 
 
 <h2>📺 Popular YouTube Videos</h2>
