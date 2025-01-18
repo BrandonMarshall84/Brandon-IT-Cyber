@@ -9,7 +9,7 @@
 <h2>👨‍💻 Smart Home Automation</h2>
 
 - [Home Automation Door Sensor](https://github.com/BrandonMarshall84/Door-Sensor-/tree/main)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Home Automation Distance Sensor](https://github.com/BrandonMarshall84/Distance-Sensor-/tree/main)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
